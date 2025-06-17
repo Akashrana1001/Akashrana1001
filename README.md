@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Akash Chauhan</h1>
+<h1 align="center">Hi 👋, I'm Akash Rana</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | C++ | PHP | DSA Enthusiast</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+</p>
 
 ---
 
@@ -12,14 +16,14 @@
 - Exploring **Competitive Programming** in C++
 
 💬 Ask me about:
-- MERN Stack Development
-- JavaScript, Node.js, Express, MongoDB
-- PHP & MySQL
+- MERN Stack Development (MongoDB, Express, React, Node.js)
+- PHP & MySQL Projects
 - Data Structures & Algorithms in C++
+- Full-stack application architecture and deployment
 
 📫 How to reach me:
-- Email: [sandeepekash537@email.com](mailto:sandeepekash537@email.com)
-- LinkedIn: [linkedin.com/in/akashrana100](https://linkedin.com/in/akashrana100)
+- 📧 Email: [sandeepekash537@email.com](mailto:sandeepekash537@email.com)
+- 💼 LinkedIn: [linkedin.com/in/akashrana100](https://linkedin.com/in/akashrana100)
 
 ---
 
@@ -32,28 +36,53 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 ---
 
 ### 📌 Featured Projects
 
-- 🩺 [Doctor Appointment System](https://github.com/Akashrana1001/doctor-appointment-system)  
-  A complete appointment booking and management system built with PHP and MySQL.
+- 🩺 [Doctor Appointment System (PHP & MySQL)](https://github.com/Akashrana1001/doctor-appointment-system)  
+  A full-featured appointment booking system built with PHP, MySQL, and Bootstrap.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashrana1001&show_icons=true&theme=radical" alt="Akashrana1001's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashrana1001&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashrana1001&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧠 Top Languages
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashrana1001&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Let’s Connect!
+### 👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akashrana1001&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 🤝 Let’s Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/akashrana100"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
