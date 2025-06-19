@@ -47,7 +47,8 @@
 
 - 🩺 [Doctor Appointment System (PHP & MySQL)](https://github.com/Akashrana1001/doctor-appointment-system)  
   A full-featured appointment booking system built with PHP, MySQL, and Bootstrap.
-
+- 🧠 [StudyBuddy++ (C++ CLI Study Tracker)](https://github.com/Akashrana1001/StudyBuddy-CPP)
+A command-line study planner that lets you manage topics, log study time, and get smart revision reminders — built using OOP and file handling in C++17.
 ---
 
 ### 📊 GitHub Stats
