@@ -50,7 +50,7 @@
 - 🧠 [StudyBuddy++ (C++ CLI Study Tracker)](https://github.com/Akashrana1001/StudyBuddy-CPP)
 A command-line study planner that lets you manage topics, log study time, and get smart revision reminders — built using OOP and file handling in C++17.
 -  🏢 [multi-tenant-SaaS(MERN Stack )](https://github.com/Akashrana1001/multi-tenant-saas)
--  A powerful full-stack SaaS application built for company heads to manage projects, team members, and clients — with tenant-based data separation, role-based access control, and export-ready dashboards.
+    A powerful full-stack SaaS application built for company heads to manage projects, team members, and clients — with tenant-based data separation, role-based access control, and export-ready dashboards.
 ---
 
 ### 📊 GitHub Stats
