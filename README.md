@@ -53,13 +53,7 @@ A command-line study planner that lets you manage topics, log study time, and ge
     A powerful full-stack SaaS application built for company heads to manage projects, team members, and clients — with tenant-based data separation, role-based access control, and export-ready dashboards.
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashrana1001&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
 ### 🔥 Contribution Streak
 
