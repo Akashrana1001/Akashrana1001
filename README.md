@@ -41,19 +41,26 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
+<!-- AI Tools -->
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-181717?style=flat-square&logo=github)
+![OpenAI GPT](https://img.shields.io/badge/-GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor%20AI-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Lovable](https://img.shields.io/badge/-Lovable%20AI-ff69b4?style=flat-square)
+![Uizard](https://img.shields.io/badge/-Uizard%20AI-5A67D8?style=flat-square)
+![V0.dev](https://img.shields.io/badge/-V0.dev-black?style=flat-square)
+
 ---
 
 ### 📌 Featured Projects
 
 - 🩺 [Doctor Appointment System (PHP & MySQL)](https://github.com/Akashrana1001/doctor-appointment-system)  
   A full-featured appointment booking system built with PHP, MySQL, and Bootstrap.
-- 🧠 [StudyBuddy++ (C++ CLI Study Tracker)](https://github.com/Akashrana1001/StudyBuddy-CPP)
-A command-line study planner that lets you manage topics, log study time, and get smart revision reminders — built using OOP and file handling in C++17.
--  🏢 [multi-tenant-SaaS(MERN Stack )](https://github.com/Akashrana1001/multi-tenant-saas)
-    A powerful full-stack SaaS application built for company heads to manage projects, team members, and clients — with tenant-based data separation, role-based access control, and export-ready dashboards.
+- 🧠 [StudyBuddy++ (C++ CLI Study Tracker)](https://github.com/Akashrana1001/StudyBuddy-CPP)  
+  A command-line study planner that lets you manage topics, log study time, and get smart revision reminders — built using OOP and file handling in C++17.
+- 🏢 [Multi-Tenant SaaS (MERN Stack)](https://github.com/Akashrana1001/multi-tenant-saas)  
+  A powerful full-stack SaaS application built for company heads to manage projects, team members, and clients — with tenant-based data separation, role-based access control, and export-ready dashboards.
+
 ---
-
-
 
 ### 🔥 Contribution Streak
 
