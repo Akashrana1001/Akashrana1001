@@ -59,7 +59,8 @@
   A command-line study planner that lets you manage topics, log study time, and get smart revision reminders — built using OOP and file handling in C++17.
 - 🏢 [Multi-Tenant SaaS (MERN Stack)](https://github.com/Akashrana1001/multi-tenant-saas)  
   A powerful full-stack SaaS application built for company heads to manage projects, team members, and clients — with tenant-based data separation, role-based access control, and export-ready dashboards.
-
+- 💬 [Textify: Real-Time Chat App(MERN STACK)](https://github.com/Akashrana1001/ChatiFi)
+- Welcome to Textify, a powerful and modern real-time chat application built with the MERN Stack (MongoDB, Express.js, React.js, Node.js) and Socket.IO! 🚀
 ---
 
 ### 🔥 Contribution Streak
