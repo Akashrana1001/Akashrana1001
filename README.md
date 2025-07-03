@@ -61,6 +61,11 @@
   A powerful full-stack SaaS application built for company heads to manage projects, team members, and clients — with tenant-based data separation, role-based access control, and export-ready dashboards.
 - 💬 [Textify: Real-Time Chat App(MERN STACK)](https://github.com/Akashrana1001/ChatiFi)
 - Welcome to Textify, a powerful and modern real-time chat application built with the MERN Stack (MongoDB, Express.js, React.js, Node.js) and Socket.IO! 🚀
+- 🗂️ [My-Portfolio (REACT js)](https://github.com/Akashrana1001/My-Portfolio)
+- This is a fully responsive and animated personal portfolio website built using:
+React.js
+Magic UI
+Bootstrap
 ---
 
 ### 🔥 Contribution Streak
