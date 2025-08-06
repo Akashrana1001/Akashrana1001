@@ -2,8 +2,10 @@
 <h3 align="center">Full-Stack Developer | MERN Stack | C++ | PHP | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Fast Code Flow GIF" />
 </p>
+
+
 
 ---
 
@@ -55,17 +57,28 @@
 
 - 🩺 [Doctor Appointment System (PHP & MySQL)](https://github.com/Akashrana1001/doctor-appointment-system)  
   A full-featured appointment booking system built with PHP, MySQL, and Bootstrap.
+
 - 🧠 [StudyBuddy++ (C++ CLI Study Tracker)](https://github.com/Akashrana1001/StudyBuddy-CPP)  
   A command-line study planner that lets you manage topics, log study time, and get smart revision reminders — built using OOP and file handling in C++17.
+
 - 🏢 [Multi-Tenant SaaS (MERN Stack)](https://github.com/Akashrana1001/multi-tenant-saas)  
   A powerful full-stack SaaS application built for company heads to manage projects, team members, and clients — with tenant-based data separation, role-based access control, and export-ready dashboards.
-- 💬 [Textify: Real-Time Chat App(MERN STACK)](https://github.com/Akashrana1001/ChatiFi)
-- Welcome to Textify, a powerful and modern real-time chat application built with the MERN Stack (MongoDB, Express.js, React.js, Node.js) and Socket.IO! 🚀
-- 🗂️ [My-Portfolio (REACT js)](https://github.com/Akashrana1001/My-Portfolio)
-- This is a fully responsive and animated personal portfolio website built using:
-React.js
-Magic UI
-Bootstrap
+
+- 💬 [Textify: Real-Time Chat App (MERN Stack)](https://github.com/Akashrana1001/ChatiFi)  
+  A powerful and modern real-time chat application built with the MERN Stack and Socket.IO.
+
+- 🤖 [AI Virtual Assistant (MERN STACK)](https://github.com/Akashrana1001/Ai-virtual-Assitant)  
+  A voice-enabled virtual assistant capable of answering questions, executing commands, opening applications, and interacting using speech recognition and text-to-speech.
+
+- 🏦 [Banking System (java)](https://github.com/Akashrana1001/Banking-System)  
+  A console-based banking management system built using java that handles deposits, withdrawals, account management, and file I/O operations.
+
+- 🧠 [AI Code Reviewer (OpenAI API)](https://github.com/Akashrana1001/ai-code-reviewer)  
+  An AI-powered tool that reviews your code using GPT API and provides feedback, suggestions, and explanations.
+
+- 🗂️ [My-Portfolio (React.js)](https://github.com/Akashrana1001/My-Portfolio)  
+  A fully responsive and animated personal portfolio website built using React.js, Magic UI, and Bootstrap.
+
 ---
 
 ### 🔥 Contribution Streak
