@@ -53,15 +53,9 @@ Backend Engineer | Distributed Systems | Node.js • Redis • Docker • AWS
 ![CI/CD](https://img.shields.io/badge/CI/CD-%23F29C11.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### **AI & Machine Learning**:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23000.svg?style=for-the-badge&logo=openai&logoColor=white)
-
 ### **Others**:
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
 ---
 ## 📌 Featured Projects
 
