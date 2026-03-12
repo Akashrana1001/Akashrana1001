@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/Trevor-akshay/Trevor-akshay/main/hi.gif" width="30px">, I am Akash Chauhan</h1>
 <h3 align="center">
-Fullstack Developer | OCI Certified (Foundations Associate) |  | Open to New Opportunities
+Backend Engineer | Distributed Systems | Node.js • Redis • Docker • AWS
 </h5>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+Automation+%7C+Cloud+%7C+Fullstack+Dev;Building+with+passion+and+curiosity+%F0%9F%92%AF;Let%27s+create+something+amazing+together+%F0%9F%92%A1" alt="Typing SVG" />
