@@ -17,7 +17,7 @@ Backend Engineer | Distributed Systems | Node.js • Redis • Docker • AWS
 - **300+ commits in 2025 and counting** 🚀
 - Passionate about **Data Structures & Algorithms (DSA)** in C++/Java | Building real-world applications
 - 💬 **Ask me about**: Tech support, Collaboration, or anything related to **MERN Stack**, **AI**, **AWS**, **CI/CD**, **DevOps**, and more!
-- 📫 **Contact**: [sandeepekash537@email.com](mailto:sandeepekash537@email.com) | [LinkedIn](https://linkedin.com/in/akashrana100)
+- 📫 **Contact**: [sandeepekash537@email.com](mailto:sandeepekash537@gmail.com) | [LinkedIn](https://linkedin.com/in/akashrana100)
 
 ---
 
