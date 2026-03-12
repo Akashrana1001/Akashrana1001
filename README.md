@@ -95,11 +95,3 @@ Backend Engineer | Distributed Systems | Node.js • Redis • Docker • AWS
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🔝 Top Contributed Repos
-
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=Akashrana1001&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Akashrana1001)
-
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
