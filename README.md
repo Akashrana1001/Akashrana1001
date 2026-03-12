@@ -63,19 +63,17 @@ Backend Engineer | Distributed Systems | Node.js • Redis • Docker • AWS
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
-
 ## 📌 Featured Projects
 
-| Project Name                 | Tech Stack           | Description |
-| ---------------------------- | -------------------- | ----------- |
-| 🩺 **Doctor Appointment System** | PHP + MySQL          | A hospital management system that optimizes doctor availability and appointment allocation. |
-| 🧠 **StudyBuddy++**           | C++                  | Your Smart Command-Line Study Planner & Time Tracker. |
-| 🏢 **Multi-Tenant SaaS**      | MERN                 | A scalable SaaS application for businesses, built using the MERN stack. |
-| 💬 **Textify**                | MERN + Socket.IO     | A real-time chat application with Socket.IO. |
-| 🤖 **AI Virtual Assistant**   | MERN + AI            | A virtual assistant built with the MERN stack, powered by AI. |
-| 🧠 **AI Code Reviewer**       | OpenAI API           | Automate code reviews with AI and improve code quality. |
-| 🗂️ **My Portfolio**          | React                | A personal portfolio showcasing my work and projects. |
-
+| Project Name | Tech Stack | Description |
+|--------------|------------|-------------|
+| 🚦 **Distributed Rate Limiter** | Node.js + Redis + Docker | A distributed API rate limiting system using Redis atomic counters to enforce global request limits across multiple server instances. |
+| ⚙️ **AsyncFlow – Distributed Task Queue** | Node.js + Redis + BullMQ | A background job processing system with priority queues, retries, delayed jobs, and worker-based asynchronous processing. |
+| 🧠 **LRU Cache Server** | Node.js + Express | In-memory caching server implementing an O(1) LRU eviction policy using hash map and doubly linked list. |
+| 🤖 **AI Code Reviewer** | Node.js + OpenAI API | An AI-powered service that analyzes source code and generates automated review suggestions and improvements. |
+| 🏢 **Multi-Tenant SaaS Platform** | MERN + Docker | A scalable SaaS architecture supporting multiple tenants with isolated data and role-based access control. |
+| 📊 **Task Manager API** | Node.js + MongoDB | A RESTful backend service for task management with authentication, CRUD operations, and API validation. |
+| 🌐 **Backend System Design Portfolio** | Node.js + Cloud + Docker | A collection of backend engineering projects demonstrating distributed systems, caching, queues, and scalable APIs. |
 
 
 ## 🎮 Snake Game Effect
